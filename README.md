@@ -6,5 +6,6 @@ collect extensions for my projects
 
 Member
 ==============
-yii-tooltipster 
+[2013-06-22]
+yii-tooltipster
 
