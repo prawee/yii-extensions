@@ -1,6 +1,6 @@
 How to use it.
 
-$this->widget('ext.psocial.PFacebook',array( 
+$this->widget('ext.psocial.PFacebook',array(  
    'model'=>$model,
    'pageId'=>'xxxx',
    'appId'=>'xxxx',
